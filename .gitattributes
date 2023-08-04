@@ -1,0 +1,7 @@
+Car_Plate_Detection_Recognition_YOLOV5 filter=lfs diff=lfs merge=lfs -text
+Courses_Curriculum_Design_with_NLP_and_Clustering filter=lfs diff=lfs merge=lfs -text
+Data_Science_and_NLP_for_Customer_Review_Analysis filter=lfs diff=lfs merge=lfs -text
+Empirical_Study_on_MMPOSE_2D_Hand_Keypoint_Detection[[:space:]](Topdown_Heatmap_ResNet) filter=lfs diff=lfs merge=lfs -text
+Salary_Satisfaction_Analysis filter=lfs diff=lfs merge=lfs -text
+Sentiment_Analysis_on_Tweet_about_War_of_Ukraine_Against_Russia filter=lfs diff=lfs merge=lfs -text
+Women's_Education_and_Income_Analysis filter=lfs diff=lfs merge=lfs -text
